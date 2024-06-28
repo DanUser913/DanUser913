@@ -1,6 +1,6 @@
 ## Olá! Me chamo Daniel Lucena - Desenvolvedor de softwares
 
-- 🐘 **PHP** (Elefantinho)
+- 🐘 **PHP**
 - ☕  **Java**
 - 🐍 **Python**
 - 🌐 **JavaScript**
