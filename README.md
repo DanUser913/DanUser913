@@ -1,4 +1,4 @@
-## Daniel Lucena - Software engeener
+## Daniel Lucena - Engenheiro de Software
 
 #### Linguagens principais:
 
