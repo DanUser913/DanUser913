@@ -1,5 +1,5 @@
 <div align="center">
- <h2>Daniel Lucena - Engenheiro de Software</h2>
+ <h2>Daniel L'Vincitore - Engenheiro de Software</h2>
 </div>
 
 <div align="center">
