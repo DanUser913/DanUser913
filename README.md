@@ -3,12 +3,10 @@
 </div>
 
 <div align="center">
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Banner" style="border-radius: 15px; border: 2px solid transparent; transition: border-color 0.3s;" onmouseover="this.style.borderColor='#4CAF50';" onmouseout="this.style.borderColor='transparent';">
 </div>
-
-
-
-#### Linguagens principais:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,6 +18,9 @@
 ![Dart](https://img.shields.io/badge/Dart-00C4B3?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)>
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ## Bibliotecas e frameworks:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -29,13 +30,9 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-
-## Marcaação:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## Contatos:
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/DDI+DDD+SEU_NUMERO_WHATSAPP)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Banner" style="border-radius: 15px; border: 2px solid transparent; transition: border-color 0.3s;" onmouseover="this.style.borderColor='#4CAF50';" onmouseout="this.style.borderColor='transparent';">
+</div>
 
 ## Estudando no momento:
 
@@ -52,20 +49,3 @@
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-## Sistemas operacionais:
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-
-#### Area de trabalho:
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![VScode](https://img.shields.io/badge/Visual_Studio-4285F4?style=for-the-badge&logo=VisualStudio&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android_Studio-00599C?style=for-the-badge&logo=AndroidStudio&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA7343?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
-![Dbeaver](https://img.shields.io/badge/Dbeaver-FA7343?style=for-the-badge&logo=Dbeaver&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-FA7343?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJI_DEA-FA7343?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)&nbsp;
