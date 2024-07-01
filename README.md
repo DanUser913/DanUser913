@@ -7,6 +7,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Banner" style="border-radius: 15px; border: 2px solid transparent; transition: border-color 0.3s;" onmouseover="this.style.borderColor='#4CAF50';" onmouseout="this.style.borderColor='transparent';">
 </div>
+<div align="center">
+  <h4>
+    Sou um engenheiro de software autodidata apaixonado por resolver problemas complexos e criar soluções inovadoras. Com habilidades em algumas linguagens de programação, adoro explorar novas 
+    tecnologias e transformar ideias em realidade.
+  </h4>
+</div>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
