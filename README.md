@@ -1,9 +1,11 @@
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Banner" style="border-radius: 15px; border: 2px solid transparent; transition: border-color 0.3s;" onmouseover="this.style.borderColor='#4CAF50';" onmouseout="this.style.borderColor='transparent';">
+ <h2>Daniel Lucena - Engenheiro de Software</h2>
 </div>
 
-## Daniel Lucena - Engenheiro de Software
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Banner" style="border-radius: 15px; border: 2px solid transparent; transition: border-color 0.3s;" onmouseover="this.style.borderColor='#4CAF50';" onmouseout="this.style.borderColor='transparent';">
+</div>
+
 
 
 #### Linguagens principais:
