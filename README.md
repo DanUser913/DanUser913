@@ -17,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucena_daniell/profilecard/)
 
 ![PHP](https://img.shields.io/badge/PHP-A020F0?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-A020F0?style=for-the-badge&logo=kotlin&logoColor=white)
